@@ -1,4 +1,4 @@
-Dependencies : fortran package manager
+A component-wise WENO solver in plain fortran.
 
 To run the free-shock obstacle problem, one just need to run the run.sh file
 
